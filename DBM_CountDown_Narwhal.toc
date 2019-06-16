@@ -1,0 +1,10 @@
+﻿## Interface: 80100
+## X-Min-Interface: 70200
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Countdown Narwhal|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Amtoft
+## Version: 0.1.0
+## X-DBM-CountPack: 1
+## X-DBM-CountPack-GlobalName: DBMCPNarwhal
+CountLoadList.lua
