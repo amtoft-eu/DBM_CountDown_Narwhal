@@ -1,5 +1,4 @@
-﻿## Interface: 110100
-## X-Min-Interface: 70200
+﻿## Interface: 110100, 40402, 11506
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Countdown Narwhal|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
